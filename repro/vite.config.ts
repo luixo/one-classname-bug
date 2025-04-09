@@ -5,6 +5,7 @@ export default defineConfig({
   plugins: [
     one({
       web: {
+        // Change this to 'spa' to make it work
         defaultRenderMode: 'ssg',
       },
     }),

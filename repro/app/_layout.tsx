@@ -1,4 +1,5 @@
 import { Slot } from 'one'
+import './base.css';
 
 /**
  * The root _layout.tsx filters <html /> and <body /> out on native
